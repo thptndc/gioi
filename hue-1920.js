@@ -9889,7 +9889,7 @@ const hsgData1920 = [
     "dob": "23-11-2002",
     "school": "THPT An Lương Đông",
     "grade": "",
-    "subject": "Ngữ Văn (Chuyên)",
+    "subject": "Ngữ văn (Chuyên)",
     "score": 16.25,
     "prize": "Nhì"
   },
