@@ -1,5 +1,5 @@
 ﻿/**
- * Dữ liệu Kỳ thi chọn học sinh giỏi THPT Thừa Thiên Huế 2019-2020
+ * Dữ liệu Kỳ thi chọn học sinh giỏi THPT Thừa Thiên Huế 2019-2020 (1072 giải THPT)
  * Chuyển đổi từ bảng Excel sử dụng font .VnTime (TCVN3)
  * Mã hóa UTF-8 có BOM; văn bản chuẩn Unicode NFC.
  */
@@ -2015,7 +2015,7 @@ const hsgData1920 = [
     "name": "Trần Tiến Dũng",
     "gender": "",
     "dob": "18-10-2003",
-    "school": "PT DTNT Tỉnh",
+    "school": "PT DTNT thành phố",
     "grade": "",
     "subject": "Lịch sử",
     "score": 11,
@@ -2183,7 +2183,7 @@ const hsgData1920 = [
     "name": "Hồ Phương Nam",
     "gender": "",
     "dob": "14-04-2002",
-    "school": "PT DTNT Tỉnh",
+    "school": "PT DTNT thành phố",
     "grade": "",
     "subject": "Lịch sử",
     "score": 10.25,
@@ -3563,7 +3563,7 @@ const hsgData1920 = [
     "name": "Hồ Phương Nam",
     "gender": "",
     "dob": "14-04-2002",
-    "school": "PT DTNT Tỉnh",
+    "school": "PT DTNT thành phố",
     "grade": "",
     "subject": "Địa lí",
     "score": 9.5,
@@ -8711,7 +8711,7 @@ const hsgData1920 = [
     "name": "Trần Tiến Dũng",
     "gender": "",
     "dob": "18-10-2003",
-    "school": "PT DTNT Tỉnh",
+    "school": "PT DTNT thành phố",
     "grade": "",
     "subject": "MTCT12",
     "score": 16.25,
